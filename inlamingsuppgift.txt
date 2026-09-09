@@ -8,12 +8,31 @@ Eftersom det finns hur många klipp som helst som aldrig tar slut är det lätt 
 
 2. Säkerhet
 
-TikTok samlar in mycket fakta om mig för att förstå vad jag tycker om. Appen kollar vilka klipp jag tittar klart på, vilka jag gillar, sparar eller skickar vidare till mina kompisar. Sedan använder den informationen för att visa liknande saker på min "For You"-sida. Appen vill också gärna veta var jag befinner mig för att kunna visa videor från folk i min närhet. Utöver det frågar TikTok ofta om lov att titta i min kontaktbok på mobilen för att hjälpa mig hitta vänner.
+TikTok samlar in mycket fakta om mig för att förstå vad jag tycker om. Appen kollar vilka klipp jag tittar klart på, vilka jag gillar, sparar eller skickar vidare till mina kompisar. Sedan använder den informationen för att visa liknande saker på min "For You"-sida. Appen vill också gärna veta var jag befinner mig för att kunna visa videor från folk i min närhet. Utöver det frågar TikTok ofta om lov att titta i min kontaktbok på mobilen för att hjälpa mig hitta dina vänner och kanske bjuda in de till tiktok om de inte redan har de.
 
 För att stoppade obehöriga från att komma åt mitt konto tror jag att TikTok har vanliga skydd. Det kan vara krav på starka lösenord, att man får en engångskod via SMS när man loggar in (tvåfaktorsinloggning) och att de krypterar datan på sina datorer.
 
-Det finns ändå flera risker med appen. Om någon lyckas hacka mitt konto kan de läsa mina privata meddelanden och se saker jag sparat. En annan risk är att TikTok sparar så mycket fakta om min plats och mina vanor, och att man inte helt säkert vet var den informationen hamnar i slutändan.
+Det finns ändå flera risker med appen. Om någon lyckas hacka mitt konto kan de läsa mina privata meddelanden och se saker jag sparat. En annan risk är att TikTok sparar så mycket fakta om min plats och mina vanor, och att man inte helt säkert vet var den informationen hamnar i slutändan. Någon kan ta den informationen och göra dåliga saker med den som att drabba mig och min familj eller folk runt omkring mig som vänner och deras familjer.
 
 
 Del 3 - Reflektion
 
+1.
+Detta är min andra dag på utbildningen till backendutvecklare. Eftersom klassen har varit igång i nästan tre veckor har det varit mycket att ta in på kort tid. Samtidigt ser jag verkligen fram emot att lära mig mer. Jag läste på mycket om utbildningen innan jag sökte och blev intresserad direkt. Jag har ett stort intresse för IT, hur programmering fungerar rent logiskt och hur man organiserar information och data. Även om jag nyss har börjat får jag redan med mig mycket bra saker från föreläsningarna som jag kan använda när jag ska göra uppgifter. 
+
+För mig är en backendutvecklare som motorn i en bil eller i ett stort digitalt system. Många tänker bara på hur en hemsida eller app ser ut på skärmen, men det är i bakgrunden som det viktigaste arbetet sker. Rollen handlar om att bygga det som inte syns men som måste fungera. Det handlar om att spara information i databaser, skriva smart kod och se till att allt skickas säkert mellan datorer och användare. 
+
+Det som jag tycker är mest intressant med yrket är att få lösa problem. Som backendutvecklare ställs man inför utmaningar som kräver att man tänker steget längre och jobbar ordentligt. Det räcker inte att koden bara fungerar lite grann. Den måste också vara säker, stabil och klara av att många använder appen samtidigt utan att allt kraschar. Det är ett stort ansvar, men det är också det som gör det så roligt. 
+
+Jag ser fram emot att gå från att bara lyssna på lektioner till att faktiskt bygga egna program och system. Att kunna skriva kod som gör att stora appar fungerar känns väldigt roligt. Jag är säker på att den här utbildningen kommer att ge mig allt jag behöver för att bli en bra och trygg utvecklare i framtiden.
+
+2. VG
+Jag tror inte att AI kommer att ta bort jobbet för backendutvecklare under de närmaste fem åren. Däremot tror jag att yrket kommer att förändras en hel del. AI går från att vara ett litet hjälpmedel till att bli en snabb assistent som vi jobbar tillsammans med varje dag. 
+
+Den största skillnaden blir vad vi faktiskt gör på dagarna. Idag går mycket tid åt till att skriva enklare kod, leta efter småfel och bygga saker som redan gjorts tusen gånger förut. I framtiden kommer AI att fixa sådana saker på bara några sekunder. Det gör att vi slipper det mest upprepande arbetet och istället kan fokusera på den större bilden. 
+
+För det första kommer vi att lägga mer tid på att planera hela system. Det handlar om att tänka ut hur databaser, servrar och appar ska kopplas ihop så att allt fungerar snabbt och utan avbrott. För det andra blir det mycket viktigare att förstå vad kunden vill ha. Vi måste kunna förklara detta så tydligt att AI-verktygen bygger rätt sak direkt. För det tredje måste vi granska och säkra koden. AI kan skriva kod väldigt snabbt, men den gör också fel och missar ibland säkerheten. Det är alltid vårt ansvar att kontrollera koden och se till att informationen är trygg. 
+
+Sättet vi programmerar på förändras också. Istället för att skriva svår kod rad för rad kan vi förklara vad vi vill göra i vanlig text, och sedan låta AI skapa ett första förslag. Vi kommer dessutom att behöva bygga system som kan kopplas ihop med olika AI-tjänster. 
+
+Sammanfattningsvis tror jag att en enskild utvecklare kommer att kunna göra mycket mer än innan. Det blir lättare att starta nya projekt, men det krävs fortfarande en människa som förstår hela systemet, tar de viktiga besluten och bär ansvaret för att allt fungerar. AI kommer alltså inte att ta våra jobb, utan gör bara att vi kan arbeta på ett smartare sätt.
