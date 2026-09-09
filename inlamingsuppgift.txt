@@ -15,7 +15,6 @@ För att stoppade obehöriga från att komma åt mitt konto tror jag att TikTok 
 Det finns ändå flera risker med appen. Om någon lyckas hacka mitt konto kan de läsa mina privata meddelanden och se saker jag sparat. En annan risk är att TikTok sparar så mycket fakta om min plats och mina vanor, och att man inte helt säkert vet var den informationen hamnar i slutändan. Någon kan ta den informationen och göra dåliga saker med den som att drabba mig och min familj eller folk runt omkring mig som vänner och deras familjer.
 
 
-Del 3 - Reflektion
 
 1.
 Detta är min andra dag på utbildningen till backendutvecklare. Eftersom klassen har varit igång i nästan tre veckor har det varit mycket att ta in på kort tid. Samtidigt ser jag verkligen fram emot att lära mig mer. Jag läste på mycket om utbildningen innan jag sökte och blev intresserad direkt. Jag har ett stort intresse för IT, hur programmering fungerar rent logiskt och hur man organiserar information och data. Även om jag nyss har börjat får jag redan med mig mycket bra saker från föreläsningarna som jag kan använda när jag ska göra uppgifter. 
