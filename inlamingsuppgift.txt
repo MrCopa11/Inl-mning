@@ -1,0 +1,19 @@
+Del 1 – Analysera en teknisk lösning: TikTok
+
+1. Hållbarhet
+
+När jag använder TikTok märker jag snabbt att appen drar väldigt mycket energi. Om jag fastnar och kollar på klipp flera timmar i sträck töms batteriet snabbt, och mobilen blir ofta väldigt varm i handen. Men det är inte bara min egen telefon som drar ström när jag kollar. TikTok måste också ha tusentals stora datorservrar igång hela tiden i sina serverhallar. De här datorerna körs dygnet runt för att lagra, ladda upp och spela upp alla miljontals videor som finns på plattformen. Det gör att hela tjänsten kräver enorma mängder elektricitet för att fungera.
+
+Eftersom det finns hur många klipp som helst som aldrig tar slut är det lätt att tappa minnet av tiden. För att göra appen mer hållbar, både för miljön och för användarna, tycker jag att TikTok borde skicka en tydlig varning eller påminnelse när man varit inne för länge. En sådan ruta skulle hjälpa mig att faktiskt lägga undan mobilen och ta en paus. Det hade gjort att mobilen slipper bli överhettad och att batteriet inte laddas ur i onödan utan att jag tänker på det.
+
+2. Säkerhet
+
+TikTok samlar in mycket fakta om mig för att förstå vad jag tycker om. Appen kollar vilka klipp jag tittar klart på, vilka jag gillar, sparar eller skickar vidare till mina kompisar. Sedan använder den informationen för att visa liknande saker på min "For You"-sida. Appen vill också gärna veta var jag befinner mig för att kunna visa videor från folk i min närhet. Utöver det frågar TikTok ofta om lov att titta i min kontaktbok på mobilen för att hjälpa mig hitta vänner.
+
+För att stoppade obehöriga från att komma åt mitt konto tror jag att TikTok har vanliga skydd. Det kan vara krav på starka lösenord, att man får en engångskod via SMS när man loggar in (tvåfaktorsinloggning) och att de krypterar datan på sina datorer.
+
+Det finns ändå flera risker med appen. Om någon lyckas hacka mitt konto kan de läsa mina privata meddelanden och se saker jag sparat. En annan risk är att TikTok sparar så mycket fakta om min plats och mina vanor, och att man inte helt säkert vet var den informationen hamnar i slutändan.
+
+
+Del 3 - Reflektion
+
